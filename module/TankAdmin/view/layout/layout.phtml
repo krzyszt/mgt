@@ -1,0 +1,15 @@
+<?php echo $this->doctype(); ?>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <?php echo $this->headTitle('TankAdmin '. $this->translate('Module'))->setSeparator(' - ')->setAutoEscape(false) ?>
+         <?php 
+        echo $this->headLink(array('rel' => 'shortcut icon', 'type' => 'image/vnd.microsoft.icon', 'href' => $this->basePath() . '/img/favicon.ico'))
+                        ->prependStylesheet($this->basePath() . 'resources/admin/TankAdminExt-all.css')
+                        ->prependStylesheet($this->basePath() . 'resources/css/common.css')?>
+    </head>
+    <body>
+            <?php echo $this->content; ?>
+    </body>
+</html>

@@ -1,0 +1,99 @@
+/* 
+    Document   : common-icons
+    Created on : 16-May-2013, 13:55:06
+    Author     : krzysztof
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.add {
+    background-image: url(img/add.png) !important;
+}
+
+.edit {
+    background-image: url(img/edit.png) !important;
+}
+
+.editpen {
+    background-image: url(img/editpen.png) !important;
+}
+
+.bin {
+    background-image: url(img/bin.png) !important;
+}
+
+.cascade {
+    background-image: url(img/cascade.png) !important;
+}
+
+.double {
+    background-image: url(img/double.png) !important;
+}
+
+.basket_add {
+    background-image: url(img/basket_add.png) !important;
+}
+
+.tags {
+    background-image: url(img/tags.png) !important;
+}
+
+.expand {
+    background-image: url(img/expand.png) !important;
+}
+
+.home {
+    background-image: url(img/home.png) !important;
+    margin: 5px 10px;
+}
+
+.group {
+    background-image: url(img/group.png) !important;
+    margin: 5px 10px;
+}
+
+.in {
+    background-image: url(img/in.png) !important;
+    margin: 5px 10px;
+}
+
+.tags {
+    background-image: url(img/tags.png) !important;
+    margin: 5px 10px;
+}
+
+.cart {
+    background-image: url(img/cart.png) !important;
+    margin: 5px 10px;
+}
+
+.shirt {
+    background-image: url(img/shirt.png) !important;
+    margin: 5px 10px;
+}
+
+.fabric {
+    background-image: url(img/fabric.png) !important;
+    margin: 5px 10px;
+}
+
+.out {
+    background-image: url(img/out.png) !important;
+    margin: 5px 10px;
+}
+
+.cogwheels {
+    background-image: url(img/cogwheels.png) !important;
+    margin: 5px 10px;
+}
+
+.cargo {
+    background-image: url(img/cargo.png) !important;
+    margin: 5px 10px;
+}
+
+.truck {
+    background-image: url(img/truck.png) !important;
+    margin: 5px 10px;
+}
+
